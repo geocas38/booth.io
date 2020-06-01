@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Video Viewing Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!--Displaying background video-->
+    <video autoplay loop muted id="myVideo">
+        <source src="assets/video1.mp4" type="video/mp4" autoplay=true>
+    </video>
+
+    <!--Displaying video content overlay -->
+    <div class="content">
+        <h1>Heading</h1>
+        <p>Lorem ipsum...</p>
+        <!-- Use a button to pause/play the video with JavaScript -->
+        <button id="myBtn" onclick="myFunction()">Pause</button>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
