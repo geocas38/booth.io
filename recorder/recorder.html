@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - booth.io</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<p>Click the "Start" button to begin video recording for a few seconds. You can stop
+   the video by clicking the creatively-named "Stop" button. The "Download"
+   button will download the received data (although it's in a raw, unwrapped form
+   that isn't very useful).
+</p>
+<br>
+<div class="left">
+  <div id="startButton" class="button">
+    Start
+  </div>
+  <h2>Preview</h2>
+  <video id="preview" width="160" height="120" autoplay muted></video>
+  <a id="deleteButton" class="button">
+    Delete
+  </a>
+</div>
+<div class="right">
+  <div id="stopButton" class="button">
+    Stop
+  </div>
+  <h2>Recording</h2>
+  <video id="recording" width="160" height="120" controls></video>
+  <a id="downloadButton" class="button">
+    Download
+  </a>
+</div>
+<div class="bottom">
+  <pre id="log"></pre>
+</div>
+<!-- partial -->
+  <script  src="../scripts/main.js"></script>
+
+</body>
+</html>
