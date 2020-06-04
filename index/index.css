@@ -42,16 +42,78 @@
       overflow-x: auto;
       overflow-y: auto;
       background-color: rgba(255, 255, 255, 1);
-      width: auto;
-    height: auto;
+      width: 700.00px;
+    height: 900.00px;
     left: 0px;
     top: 0px;
-    right: 0px;
-    bottom: 0px;
 
 }
 
-.index .rectangle135 {
+.index .group147 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1100.65px;
+    height: 1401.16px;
+    right: 0.00px;
+    bottom: 0.00px;
+
+}
+
+.index .group147 .group146 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: auto;
+    height: auto;
+    left: 0.00px;
+    top: 0.00px;
+    right: 0.00px;
+    bottom: 0.00px;
+
+}
+
+.index .group147 .group146 .rectangle135 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -88,14 +150,14 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 1050.00px;
-    height: 1350.00px;
-    left: 0.00px;
-    top: 0.00px;
+      width: 700.00px;
+    height: 900.00px;
+    left: 400.65px;
+    top: 501.16px;
 
 }
 
-.index .rectangle129 {
+.index .group147 .group146 .rectangle129 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -132,14 +194,14 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 1050.00px;
-    height: 1350.00px;
-    left: 0.00px;
-    top: 0.00px;
+      width: 700.00px;
+    height: 900.00px;
+    left: 400.65px;
+    top: 501.16px;
 
 }
 
-.index .rectangle130 {
+.index .group147 .group146 .rectangle130 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -180,14 +242,14 @@
       border-bottom-left-radius: 293.00px;
       border-bottom-right-radius: 293.00px;
       box-shadow: none;
-      width: 764.29px;
-    height: 601.14px;
-    left: 142.86px;
-    top: 373.96px;
+      width: 509.52px;
+    height: 400.76px;
+    left: 495.89px;
+    top: 750.47px;
 
 }
 
-.index .group140 {
+.index .group147 .group146 .group140 {
 
       display: block;
       position: absolute;
@@ -211,14 +273,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 493.84px;
-    height: 134.01px;
-    left: 276.85px;
-    top: 1080.70px;
+      width: 329.23px;
+    height: 89.34px;
+    left: 585.22px;
+    top: 1221.62px;
 
 }
 
-.index .group140 .path156 {
+.index .group147 .group146 .group140 .path156 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -239,14 +301,14 @@
       padding-left: 0.00px;
       fill: rgba(0, 0, 0, 1);
       box-shadow: none;
-      width: 493.84px;
-    height: 134.01px;
+      width: 329.23px;
+    height: 89.34px;
     left: 0.00px;
     top: 0.00px;
 
 }
 
-.index .group144 {
+.index .group147 .group146 .group144 {
 
       display: block;
       position: absolute;
@@ -270,14 +332,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 171.33px;
-    height: 437.19px;
-    right: 85.22px;
-    bottom: 0.24px;
+      width: 114.22px;
+    height: 291.46px;
+    right: 56.81px;
+    bottom: 0.16px;
 
 }
 
-.index .group144 .group141 {
+.index .group147 .group146 .group144 .group141 {
 
       display: block;
       position: absolute;
@@ -301,14 +363,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 99.66px;
-    height: 204.61px;
-    left: 56.48px;
-    top: 232.58px;
+      width: 66.44px;
+    height: 136.41px;
+    left: 37.66px;
+    top: 155.05px;
 
 }
 
-.index .group144 .group141 .rectangle131 {
+.index .group147 .group146 .group144 .group141 .rectangle131 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(-89.99deg);
@@ -349,14 +411,14 @@
       border-bottom-left-radius: 0.00px;
       border-bottom-right-radius: 0.00px;
       box-shadow: none;
-      width: 204.60px;
-    height: 99.63px;
-    left: -52.47px;
-    top: 52.49px;
+      width: 136.40px;
+    height: 66.42px;
+    left: -34.98px;
+    top: 34.99px;
 
 }
 
-.index .group144 .path160 {
+.index .group147 .group146 .group144 .path160 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(264.44deg);
@@ -378,14 +440,14 @@
       fill: rgba(255, 255, 255, 0);
       box-shadow: none;
       width: auto;
-    height: 156.77px;
-    left: 6.68px;
-    top: 7.81px;
-    right: 6.68px;
+    height: 104.52px;
+    left: 4.45px;
+    top: 5.21px;
+    right: 4.46px;
 
 }
 
-.index .group144 .group142 {
+.index .group147 .group146 .group144 .group142 {
 
       display: block;
       position: absolute;
@@ -409,14 +471,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 85.61px;
-    height: 126.78px;
-    left: 57.95px;
-    top: 128.45px;
+      width: 57.07px;
+    height: 84.52px;
+    left: 38.63px;
+    top: 85.63px;
 
 }
 
-.index .group144 .group142 .path161 {
+.index .group147 .group146 .group144 .group142 .path161 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(82.79deg);
@@ -439,14 +501,14 @@
       box-shadow: none;
       width: auto;
     height: auto;
-    left: -16.58px;
-    top: 27.76px;
-    right: -16.58px;
-    bottom: 27.75px;
+    left: -11.05px;
+    top: 18.50px;
+    right: -11.05px;
+    bottom: 18.50px;
 
 }
 
-.index .rectangle134 {
+.index .group147 .group146 .rectangle134 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -483,14 +545,14 @@
       border-bottom-left-radius: 42.50px;
       border-bottom-right-radius: 42.50px;
       box-shadow: none;
-      width: 149.11px;
-    height: 43.01px;
-    left: 166.96px;
-    top: 201.00px;
+      width: 99.40px;
+    height: 28.67px;
+    left: 511.96px;
+    top: 635.16px;
 
 }
 
-.index .path157 {
+.index .group147 .group146 .path157 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -511,14 +573,14 @@
       padding-left: 0.00px;
       fill: rgba(255, 234, 167, 1);
       box-shadow: none;
-      width: 1501.31px;
-    height: 1572.01px;
-    left: -600.98px;
-    top: -751.74px;
+      width: 1000.87px;
+    height: 1048.00px;
+    left: 0.00px;
+    top: 0.00px;
 
 }
 
-.index .group143 {
+.index .group147 .group146 .group143 {
 
       display: block;
       position: absolute;
@@ -542,14 +604,14 @@
       overflow-x: unset;
       overflow-y: unset;
       background-color: transparent;
-      width: 712.63px;
-    height: 59.15px;
-    left: 192.11px;
-    top: 184.45px;
+      width: 475.09px;
+    height: 39.43px;
+    left: 528.73px;
+    top: 624.12px;
 
 }
 
-.index .group143 .path158 {
+.index .group147 .group146 .group143 .path158 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -570,14 +632,14 @@
       padding-left: 0.00px;
       fill: rgba(214, 48, 49, 1);
       box-shadow: none;
-      width: 132.61px;
-    height: 44.84px;
+      width: 88.41px;
+    height: 29.89px;
     left: 0.00px;
-    top: 2.26px;
+    top: 1.51px;
 
 }
 
-.index .group143 .path159 {
+.index .group147 .group146 .group143 .path159 {
     position: absolute;
       box-sizing: content-box;
       -ms-transform: rotate(0.00deg);
@@ -598,9 +660,9 @@
       padding-left: 0.00px;
       fill: rgba(45, 52, 54, 1);
       box-shadow: none;
-      width: 564.42px;
-    height: 59.15px;
-    left: 148.21px;
+      width: 376.28px;
+    height: 39.43px;
+    left: 98.81px;
     top: 0.00px;
 
 }
