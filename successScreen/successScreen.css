@@ -16,6 +16,13 @@
         -ms-overflow-style: none;
       }
 
+      span{
+          color: red;
+      }
+
+      #videosRecorded {
+          z-index: 1000;
+      }
       
 
       .successscreen {

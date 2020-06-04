@@ -6,7 +6,7 @@ let downloadButton = document.getElementById("downloadButton");
 let deleteButton = document.getElementById("deleteButton");
 let logElement = document.getElementById("log");
 
-let recordingTimeMS = 5000;
+let recordingTimeMS = 15000;
 function log(msg) {
   logElement.innerHTML += msg + "\n";
 }
@@ -45,15 +45,15 @@ startButton.addEventListener("click", function() {
     audio: true
   }).then(stream => {
     preview.srcObject = stream;
-    downloadButton.href = stream;
+    // downloadButton.href = stream;
     preview.captureStream = preview.captureStream || preview.mozCaptureStream;
     return new Promise(resolve => preview.onplaying = resolve);
   }).then(() => startRecording(preview.captureStream(), recordingTimeMS))
   .then (recordedChunks => {
     let recordedBlob = new Blob(recordedChunks, { type: "video/mp4" });
     recording.src = URL.createObjectURL(recordedBlob);
-    downloadButton.href = recording.src;
-    downloadButton.download = "RecordedVideo.mp4";
+    // downloadButton.href = recording.src;
+    // downloadButton.download = "RecordedVideo.mp4";
     
     log("Successfully recorded " + recordedBlob.size + " bytes of " +
         recordedBlob.type + " media.");
@@ -64,7 +64,6 @@ startButton.addEventListener("click", function() {
 }, false);deleteButton.addEventListener("click", function() {
   data.pop();
 }, false);
-
 
 var nsOptions =
 {
