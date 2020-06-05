@@ -15,6 +15,8 @@ First, the demo in the signIn folder includes all the working components. In ord
 The other folder "OuterPrompt" includes the demo version from the screen outside of the booth. If you've already seen our booth model, there is another screen outside of the booth but its only for browsing, which means it doesn't have the recording feature.
 
 Link to demo video: https://tinyurl.com/booth-io
+Link to poster: https://www.figma.com/file/HIh1YgRZQUAamKIuslCZHS/CSE441-Poster?node-id=0%3A1
+
 
 As you can see, each folder is labeled with its content. For each screen, we have a separate folder to store its components. Therefore, the user can go in and inspect each page individually.
 
@@ -27,6 +29,9 @@ As you can see, each folder is labeled with its content. For each screen, we hav
 ## Authors
 
 Geovani Castro - Senior, CSE
+
 Grant Yang - Senior, Informatics
+
 Christina Zhang - Junior, CSE/INFO
+
 Vamsi Surapaneni - Senior, CSE
