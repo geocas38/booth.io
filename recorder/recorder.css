@@ -1,0 +1,1794 @@
+body {
+    font: 14px "Open Sans", "Arial", sans-serif;
+  }
+  
+  video {
+    margin-top: 2px;
+    border: 1px solid black;
+  }
+
+  .button {
+    cursor: pointer;
+    display: block;
+    width: 160px;
+    border: 1px solid black;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    color: white;
+    background-color: darkgreen;
+    text-decoration: none;
+    z-index: 1;
+  }
+
+#left{
+    text-align: left;
+}
+
+#right{
+    text-align: right;
+}
+  
+span {
+    color: red;
+}
+  .center {
+    display: block;
+    margin-left: 30%;
+    margin-right: 70%;
+  }
+
+  h2 {
+    margin-bottom: 4px;
+  }
+  
+  .bottom {
+    clear: both;
+    padding-top: 10px;
+  }
+  
+  a {
+    float: inline-start;
+  }
+  
+  p{
+    text-align: center;
+    font-family: Avenir, Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  body {
+    font-family: 'Open Sans', serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+  }
+
+  
+
+  .recorderoverlay {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: auto;
+  overflow-y: auto;
+  background-color: transparent;
+  width: 700.00px;
+height: 900.00px;
+right: 0px;
+bottom: 0px;
+
+}
+
+.recorderoverlay .group34 {
+cursor: pointer;
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 397.04px;
+top: 781.48px;
+
+}
+
+.recorderoverlay .group34 .group30 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group34 .group30 .group33 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group34 .group30 .group33 .path62 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(69, 70, 73, 1);
+  box-shadow: none;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group34 .group30 .path63 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(178, 111, 158, 1);
+      stroke-width: 2.00px;
+      stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.05px;
+height: 61.05px;
+left: -1.16px;
+top: -1.16px;
+
+}
+
+.recorderoverlay .group34 .path66 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(178, 111, 158, 1);
+  box-shadow: none;
+  width: 21.10px;
+height: 23.63px;
+left: 21.10px;
+top: 17.39px;
+
+}
+
+.recorderoverlay .group32 {
+    cursor: pointer;
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 595.51px;
+top: 782.48px;
+
+}
+
+.recorderoverlay .group32 .group29 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group32 .group29 .path60 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(69, 70, 73, 1);
+  box-shadow: none;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group32 .group29 .path61 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(211, 86, 89, 1);
+      stroke-width: 2.00px;
+      stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.05px;
+height: 61.05px;
+left: -1.16px;
+top: -1.16px;
+
+}
+
+.recorderoverlay .group32 .path71 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(214, 48, 49, 1);
+  box-shadow: none;
+  width: 25.32px;
+height: 25.32px;
+left: 16.41px;
+top: 16.55px;
+
+}
+
+.recorderoverlay .group36 {
+cursor: pointer;
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 456.79px;
+top: 694.89px;
+
+}
+
+.recorderoverlay .group36 .group28 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group36 .group28 .path58 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(69, 70, 73, 1);
+  box-shadow: none;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group36 .group28 .path59 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(45, 182, 128, 1);
+      stroke-width: 2.00px;
+      stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.05px;
+height: 61.05px;
+left: -1.16px;
+top: -1.16px;
+
+}
+
+.recorderoverlay .group36 .path72 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(45, 182, 128, 1);
+  box-shadow: none;
+  width: 18.57px;
+height: 23.63px;
+left: 19.74px;
+top: 17.72px;
+
+}
+
+.recorderoverlay .group35 {
+cursor: pointer;
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 537.77px;
+top: 694.89px;
+
+}
+
+.recorderoverlay .group35 .group31 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group35 .group31 .path64 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(69, 70, 73, 1);
+  box-shadow: none;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group35 .group31 .path65 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(110, 141, 205, 1);
+      stroke-width: 2.00px;
+      stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.06px;
+height: 61.05px;
+left: -1.16px;
+top: -1.16px;
+
+}
+
+.recorderoverlay .group35 .path73 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(110, 141, 205, 1);
+  box-shadow: none;
+  width: 23.63px;
+height: 23.63px;
+left: 17.77px;
+top: 17.72px;
+
+}
+
+.recorderoverlay .recordpause {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 15.00px;
+  font-weight: 700;
+font-style: normal;
+  font-family: 'Helvetica Neue', Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 121.00px;
+height: 18.00px;
+left: 564.00px;
+top: 846.00px;
+
+}
+
+.recorderoverlay .logout {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 15.00px;
+  font-weight: 700;
+font-style: normal;
+  font-family: 'Helvetica Neue', Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 64.00px;
+height: 18.00px;
+left: 391.00px;
+top: 846.00px;
+
+}
+
+.recorderoverlay .delete {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 15.00px;
+  font-weight: 700;
+font-style: normal;
+  font-family: 'Helvetica Neue', Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 58.00px;
+height: 18.00px;
+left: 455.00px;
+top: 759.00px;
+
+}
+
+.recorderoverlay .submit {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 15.00px;
+  font-weight: 700;
+font-style: normal;
+  font-family: 'Helvetica Neue', Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 59.00px;
+height: 18.00px;
+left: 538.00px;
+top: 759.00px;
+
+}
+
+body {
+    font: 14px "Open Sans", "Arial", sans-serif;
+  }
+  
+  video {
+    margin-top: 2px;
+    border: 1px solid black;
+  }
+
+  .button {
+    cursor: pointer;
+    display: block;
+    width: 160px;
+    border: 1px solid black;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    color: white;
+    background-color: darkgreen;
+    text-decoration: none;
+    z-index: 1;
+  }
+
+#left{
+    text-align: left;
+}
+
+#right{
+    text-align: right;
+}
+  
+span {
+    color: red;
+}
+  .center {
+    display: block;
+    margin-left: 30%;
+    margin-right: 70%;
+  }
+
+  h2 {
+    margin-bottom: 4px;
+  }
+  
+  .bottom {
+    clear: both;
+    padding-top: 10px;
+  }
+  
+  a {
+    float: inline-start;
+  }
+  
+  p{
+    text-align: center;
+    font-family: Avenir, Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  body {
+    font-family: 'Open Sans', serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    -webkit-font-smoothing: antialiased;
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+  }
+
+  
+
+  .recorderoverlay {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: auto;
+  overflow-y: auto;
+  background-color: transparent;
+  width: 700.00px;
+height: 900.00px;
+right: 0px;
+bottom: 0px;
+
+}
+
+.recorderoverlay .group34 {
+cursor: pointer;
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 397.04px;
+top: 781.48px;
+
+}
+
+.recorderoverlay .group34 .group30 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group34 .group30 .group33 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group34 .group30 .group33 .path62 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(69, 70, 73, 1);
+  box-shadow: none;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group34 .group30 .path63 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(178, 111, 158, 1);
+      stroke-width: 2.00px;
+      stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.05px;
+height: 61.05px;
+left: -1.16px;
+top: -1.16px;
+
+}
+
+.recorderoverlay .group34 .path66 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(178, 111, 158, 1);
+  box-shadow: none;
+  width: 21.10px;
+height: 23.63px;
+left: 21.10px;
+top: 17.39px;
+
+}
+
+.recorderoverlay .group32 {
+    cursor: pointer;
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 595.51px;
+top: 782.48px;
+
+}
+
+.recorderoverlay .group32 .group29 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group32 .group29 .path60 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(69, 70, 73, 1);
+  box-shadow: none;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group32 .group29 .path61 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(211, 86, 89, 1);
+      stroke-width: 2.00px;
+      stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.05px;
+height: 61.05px;
+left: -1.16px;
+top: -1.16px;
+
+}
+
+.recorderoverlay .group32 .path71 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(214, 48, 49, 1);
+  box-shadow: none;
+  width: 25.32px;
+height: 25.32px;
+left: 16.41px;
+top: 16.55px;
+
+}
+
+.recorderoverlay .group36 {
+cursor: pointer;
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 456.79px;
+top: 694.89px;
+
+}
+
+.recorderoverlay .group36 .group28 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group36 .group28 .path58 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(69, 70, 73, 1);
+  box-shadow: none;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group36 .group28 .path59 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(45, 182, 128, 1);
+      stroke-width: 2.00px;
+      stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.05px;
+height: 61.05px;
+left: -1.16px;
+top: -1.16px;
+
+}
+
+.recorderoverlay .group36 .path72 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(45, 182, 128, 1);
+  box-shadow: none;
+  width: 18.57px;
+height: 23.63px;
+left: 19.74px;
+top: 17.72px;
+
+}
+
+.recorderoverlay .group35 {
+cursor: pointer;
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 537.77px;
+top: 694.89px;
+
+}
+
+.recorderoverlay .group35 .group31 {
+
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group35 .group31 .path64 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(69, 70, 73, 1);
+  box-shadow: none;
+  width: 58.74px;
+height: 58.74px;
+left: 0.00px;
+top: 0.00px;
+
+}
+
+.recorderoverlay .group35 .group31 .path65 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(110, 141, 205, 1);
+      stroke-width: 2.00px;
+      stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.06px;
+height: 61.05px;
+left: -1.16px;
+top: -1.16px;
+
+}
+
+.recorderoverlay .group35 .path73 {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(110, 141, 205, 1);
+  box-shadow: none;
+  width: 23.63px;
+height: 23.63px;
+left: 17.77px;
+top: 17.72px;
+
+}
+
+.recorderoverlay .recordpause {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 15.00px;
+  font-weight: 700;
+font-style: normal;
+  font-family: 'Helvetica Neue', Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 121.00px;
+height: 18.00px;
+left: 564.00px;
+top: 846.00px;
+
+}
+
+.recorderoverlay .logout {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 15.00px;
+  font-weight: 700;
+font-style: normal;
+  font-family: 'Helvetica Neue', Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 64.00px;
+height: 18.00px;
+left: 391.00px;
+top: 846.00px;
+
+}
+
+.recorderoverlay .delete {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 15.00px;
+  font-weight: 700;
+font-style: normal;
+  font-family: 'Helvetica Neue', Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 58.00px;
+height: 18.00px;
+left: 455.00px;
+top: 759.00px;
+
+}
+
+.recorderoverlay .submit {
+position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+-webkit-transform: rotate(0.00deg);
+transform: rotate(0.00deg);
+-ms-transform-origin: center;
+-webkit-transform-origin: center;
+transform-origin: center;
+  opacity: 1;
+  ;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 15.00px;
+  font-weight: 700;
+font-style: normal;
+  font-family: 'Helvetica Neue', Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+filter: drop-shadow(5px 5px 6px rgba(0, 0, 0, 0.25098039215686274));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 59.00px;
+height: 18.00px;
+left: 538.00px;
+top: 759.00px;
+
+}
+
