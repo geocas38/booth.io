@@ -7,7 +7,8 @@ booth.io is not just a random photo booth. It is an interactive video booth that
 
 Clone the repo using bash or github destop.
 
-### run booth.io
+### Run booth.io
+
 In order to run the demo, two folders are essential. The "signIn" and "OuterPrompt" folders.
 
 First, the demo in the signIn folder includes all the working components. In order to run, go to the html file inside the folder and open with the browser of your choice.
