@@ -5,7 +5,7 @@ booth.io is not just a random photo booth. It is an interactive video booth that
 
 ## Getting Started
 
-Clone the repo using bash or github destop.
+Clone the repo using bash or github desktop.
 
 ### Run booth.io
 
